@@ -1,0 +1,5 @@
+name = (input("enter your name: "))
+lastname = (input("enter your lastname: "))
+age = (input("enter your age: "))
+Gmail = (input("enter your Gmail: "))
+print(name + " " + lastname + " . " + age + " ," + " " + Gmail)

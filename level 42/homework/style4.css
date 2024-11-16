@@ -1,0 +1,19 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+div:hover {
+    transition: 1.5s;
+    transform: translate(-10px);
+    transform: rotate(100deg);
+    transform: scale(-2.0);
+}

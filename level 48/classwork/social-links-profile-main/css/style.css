@@ -1,0 +1,75 @@
+
+body {
+    background-color: rgb(0,5,5);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.hi {
+    background-color: rgb(27, 27, 26);
+    width: 400px;
+    height: 700px;
+    border-radius: 5%;
+}
+.perfect {
+    border-radius: 50%;
+    margin-left: 110px;
+}
+
+.jora {
+    margin-left: 100px;
+    color: white;
+}
+
+.jurr {
+    color: greenyellow;
+    margin-bottom: 20px;
+    margin-left: 110px;
+}
+.hj {
+    margin-left: 50px;
+    color: darkgray;
+}
+.jumak {
+    margin-left: 100px;
+    border-color: dimgray;
+    background-color: dimgrey;
+    height: 50px;
+    width: 200px;
+    border-radius: 5%;
+}
+.jumaki {
+    margin-left: 100px;
+    border-color: dimgray;
+    background-color: dimgrey;
+    height: 50px;
+    width: 200px;
+    border-radius: 5%;
+}
+.jkjk {
+    margin-left: 100px;
+    border-color: dimgray;
+    background-color: dimgrey;
+    height: 50px;
+    width: 200px;
+    border-radius: 5%;
+}
+.hjg {
+    margin-left: 100px;
+    border-color: dimgray;
+    background-color: dimgrey;
+    height: 50px;
+    width: 200px;
+    border-radius: 5%;
+}
+
+.jumaaa {
+    margin-left: 100px;
+    border-color: dimgray;
+    background-color: dimgrey;
+    height: 50px;
+    width: 200px;
+    border-radius: 5%;
+}
+

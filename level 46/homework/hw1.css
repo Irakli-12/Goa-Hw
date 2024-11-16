@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    animation-duration: 3s;
+    animation-name: mayvala;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items:center;
+}
+
+@keyframes mayvala{
+    from{
+        transform: scale(2.0);
+
+    }
+    to{
+        transform: rotate(120deg);
+    }
+}

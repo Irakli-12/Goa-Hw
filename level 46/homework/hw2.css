@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    animation-name: ikako;
+    animation-duration: 4s;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
+@keyframes ikako {
+    0%{
+        background-color: red;
+        border-radius: 0px;
+    }
+    50%{
+        background-color: black;
+        border-radius: 100px;
+    }
+    100%{
+        background-color: red;
+    }
+}

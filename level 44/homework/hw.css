@@ -1,0 +1,19 @@
+#shota {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 5%;
+    transition: height 5.0s, border-radius 2.0s;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#shota:hover {
+    height: 150px;
+    border-radius: 30% ;
+}

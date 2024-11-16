@@ -1,0 +1,5 @@
+country = "georgia"
+name = "irakli"
+surname = "gegia"
+car = "bmw"
+item = "phone"

@@ -1,0 +1,14 @@
+#div1 {
+    background-color: black;
+    width: 100px;
+    height:100px;
+    transition: color 2.0s, width 1.0s, border-radius 5.0;
+
+}
+
+
+#div1:hover {
+    background-color: red;
+    width: 150px;
+    border-radius: 30%;
+}

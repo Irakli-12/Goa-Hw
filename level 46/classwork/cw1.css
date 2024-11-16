@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+div {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    animation-name: geliko;
+    animation-duration: 2s;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes geliko {
+    0%{
+        background-color: red;
+    }
+    30%{
+        background-color: blue;
+    }
+    50%{
+        transform: scale(2.0);
+    }
+    100%{
+        transform: rotate(90deg);
+    }
+}

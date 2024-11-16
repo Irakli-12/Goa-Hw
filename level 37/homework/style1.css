@@ -1,0 +1,27 @@
+.btm1 {
+    background-color:  aquamarine;
+    border-color: blue;
+}
+
+.h123 {
+    text-align: center;
+}
+
+.jori12 {
+    background-color:  aquamarine;
+    border-color: blue;
+}
+
+.jori13 {
+    background-color:  aquamarine;
+    border-color: blue;
+}
+.jori14 {
+    background-color: chartreuse;
+    border-color: chocolate;
+    border-radius: 5%;
+}
+.jori14:hover {
+    transition: 1.0s;
+    transform: scale(1.5);
+}

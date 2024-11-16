@@ -1,0 +1,40 @@
+#ggjj {
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+    margin-right:20px
+}
+#jjgg {
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+
+
+#juja {
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+}
+#ikako {
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+
+#shota {
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+    margin-left:20px;
+}
+#shotiko {
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}

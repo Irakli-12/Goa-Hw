@@ -1,0 +1,51 @@
+body {
+    background-color:bisque;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+#biggestdiv {
+    width: 530px;
+    height: 1000px;
+    background-color: white;
+    border-radius: 4%;
+}
+
+.hi {
+    width: 440px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 4%;
+}
+
+.bigparagraph {
+    margin-left: 20px;
+}
+.mrp {
+    margin-left: 15px;
+}
+.littlediv {
+    width: 480px;
+    height: 100px;
+    background-color: lightpink;
+    margin-left: 20px;
+    border-radius: 4%;
+}
+.bigh3 {
+    color: palevioletred;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.oooo {
+    color: chocolate;
+    margin-left: 20px;
+}
+
+.bumm {
+    color: chocolate;
+    margin-left: 20px;
+}
+
+

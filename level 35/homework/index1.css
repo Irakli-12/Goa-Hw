@@ -1,0 +1,15 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    content: "goa the best";
+    margin-top: 20px;
+    margin-left: 200px; 
+    padding: 60px;
+}

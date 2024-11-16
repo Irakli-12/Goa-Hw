@@ -1,0 +1,10 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: blue
+}
+
+div:hover {
+    transition: 1.5s;
+    transform: rotate(-360deg);
+}

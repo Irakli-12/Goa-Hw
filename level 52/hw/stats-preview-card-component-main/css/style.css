@@ -1,0 +1,69 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(233, 47%, 7%);
+    height: 485px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.all {
+    background-color: hsl(244, 38%, 16%);
+    width: 700px;
+    height: 350px;
+    display: flex;
+    border-radius: 10px;
+}
+
+.image {
+    background-image: url(/images/image-header-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+    padding-left: 165px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.text {
+    width: 50%;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.p1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.p2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: blueviolet;
+    margin-top: -30px;
+    margin-left: 55px;
+}
+
+.p3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-top: -30px;
+    margin-left: 160px;
+}
+
+.p4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.p5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-top: 35px;
+}

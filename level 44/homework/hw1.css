@@ -1,0 +1,17 @@
+#sh {
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+    transition: height 1.0s, border-radius 2.0s;
+}
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+#sh:hover {
+    height: 150px;
+    border-radius: 0%;
+}
