@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+body {
+    font-family: "Outfit";
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.bigdiv { 
+    background-color: hsl(216, 50%, 16%);
+    width: 350px;
+    height: 600px;
+    border-radius: 3%;
+}
+.img1 {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 270px;
+    width: 310px;
+    border-radius: 3%;
+}
+
+.h1-1 {
+    font-size: 25px;
+    margin-left: 20px;
+    color: white;
+}
+.p1 {
+    color: grey;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.imgdiv {
+    margin-left: 20px;
+    width: 11px;
+    height: 18px;
+    background-image: url(/images/icon-ethereum.svg);
+}
+.p2 {
+    margin-top: -19px;
+    margin-left: 60px;
+    color: hsl(178, 100%, 50%);
+}
+
+.forimg {
+    margin-top: -34px;
+    margin-left: 200px;
+    height: 18px;
+    width: 15px;
+    background-image: url(/images/icon-clock.svg);
+}
+.p3 {
+    margin-left: 230px;
+    margin-top: -20px;
+   color: hsl(215, 51%, 70%);
+}
+
+.hr1 {
+    width: 320px;
+    height: 1px;
+    background-color: hsl(215, 51%, 70%);
+    border: transparent;
+}
+
+.img4 {
+    width: 70px;
+    height: 70px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.p4 {
+    margin-top: -50px;
+    margin-left: 100px;
+    color: hsl(215, 51%, 70%);
+}

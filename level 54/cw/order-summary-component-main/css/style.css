@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+body {
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Red Hat Display";
+}
+.bigdiv {
+    height: 800px;
+    width: 500px;
+    background-color: white;
+    border-radius: 2%;
+}
+
+.img1 {
+    border-radius: 2%;
+    width: 500px;
+    height: 250px;
+}
+
+.h1-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.p1 {
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    color: grey;
+    font-size: 16px;
+}
+.littlediv {
+    width: 400px;
+    height: 75px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin-left: 40px;
+    padding-top: 25px;
+    padding-left: 20px;
+    display: flex;
+}
+.img-1 {
+    background-image: url(/images/icon-music.svg);
+    background-size: cover;
+    background-position: center;
+    width: 50px;
+    height: 50px;
+}
+.text {
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.p1 {
+    color:hsl(223, 47%, 23%);
+}
+
+.p2 {
+    margin-left: 10px;
+}
+
+.a {
+    margin-top: 13px;
+    margin-left: 130px;
+}
+
+.bluebutton {
+    box-shadow:5px 0px 20px hsl(245, 75%, 52%) ;
+    border-radius: 15px;
+    color: white;
+    width: 420px;
+    height: 60px;
+    margin-top: 70px;
+    margin-left: 40px;
+    background-color:  hsl(245, 75%, 52%);
+    border: transparent;
+}
+.p3 {
+    margin-top: 70px;
+    color: gray;
+    margin-left: 200px;
+}
