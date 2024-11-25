@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend+Deca:wght@100..900&family=Outfit:wght@100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    background-color: white;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-family: "Lexend Deca";
+
+}
+
+.n1 {
+    width: 400px;
+    height: 600px;
+    background-color: hsl(31, 77%, 52%);
+}
+.n2 {
+    width: 400px;
+    height: 600px;
+    background-color: hsl(184, 100%, 22%);
+}
+.n3 {
+    width: 400px;
+    height: 600px;
+    background-color:hsl(179, 100%, 13%);
+}
+
+.fimg {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.fh1 {
+    margin-left: 50px;
+    font-size: 40px;
+    color: white;
+}
+
+.fp {
+    margin-right: 200px;
+    margin-left: 50px;
+    color: white;
+}
+
+.fb {
+    border: transparent;
+    margin-top: 100px;
+    margin-left: 50px;
+    height: 50px;
+    width: 150px;
+    border-radius: 32px;
+    color:  hsl(31, 77%, 52%);
+}
+.simg {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.sh1 {
+    font-size: 40px;
+    margin-left: 50px;
+    color: white;
+}
+
+.sp {
+    color: white;
+    margin-right: 200px;
+    margin-left: 50px;
+}
+
+.sb {
+    border: transparent;
+    margin-top: 78px;
+    margin-left: 50px;
+    height: 50px;
+    width: 150px;
+    border-radius: 32px;
+    color: hsl(184, 100%, 22%);
+}
+.timg {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.th1 {
+    color: white;
+    font-size: 40px;
+    margin-left: 50px;
+}
+
+.tp {
+    color: white;
+    margin-right: 200px;
+    margin-left: 50px;
+}
+
+.tb {
+    border: transparent;
+    margin-top: 100px;
+    margin-left: 50px;
+    height: 50px;
+    width: 150px;
+    border-radius: 32px;
+    color: hsl(179, 100%, 13%); 
+}
